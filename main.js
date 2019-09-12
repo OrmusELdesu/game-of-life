@@ -1,12 +1,14 @@
-//AUTHOR TATUM ROAQUIN
-// GAME OF LIFE 
-
+/**
+  * name:   Game of Life
+  * author: ormuseldesu
+  * date: 2018-08-05 | August 5, 2018
+*/
 var canvas = document.getElementById('canvas'),
     context = canvas.getContext('2d');
     canvas.width = window.innerWidth, canvas.height = window.innerHeight;
 var gridWidth = canvas.width/2, gridHeight = canvas.height/2;
 var offset = 4, cellSize = 2;
-var gameColor = 'orange'//prompt('wat kolah should it be nigga');
+var gameColor = 'orange'
 var theGrid = createArray(gridWidth);
 var mirrorGrid = createArray(gridWidth);
 
@@ -167,7 +169,7 @@ function updateGrid()
     }
 }
 
-alert("press Z to release vertical power, press X to release horizontal power, and C to kill everything")
+alert("press Z to release vertical power\npress X to release horizontal power\nand C to kill everything")
 tick();
 function tick()
 {
