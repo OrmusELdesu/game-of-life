@@ -9,3 +9,5 @@ the game contains only four simple rules:
 2. Any live cell with two or three live neighbours lives on to the next generation.  
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.  
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.  
+
+![game-of-life](https://user-images.githubusercontent.com/19354579/64915818-52d02000-d7b3-11e9-8cc7-afa80364e472.gif)
