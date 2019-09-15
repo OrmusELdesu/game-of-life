@@ -107,14 +107,6 @@ function updateGrid()
             }
             if(keyboard.isKeyDown(keyboard.KEY_C))
             {
-                // if(mx >= i*offset && mx <= i*offset+cellSize)
-                // {
-                //     theGrid[i][j] = 1;
-                // }
-                // if(my >= j*offset && my <= j*offset+cellSize)
-                // {
-                //     theGrid[i][j] = 1;
-                // }
                 theGrid[i][j] = 0;
             }
             
@@ -169,7 +161,7 @@ function updateGrid()
     }
 }
 
-alert("press Z to release vertical power\npress X to release horizontal power\nand C to kill everything")
+alert("press Z to release vertical power\npress X to release horizontal power\nand C to kill everything\nhover on cell-group to stimulate it.")
 tick();
 function tick()
 {
