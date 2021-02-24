@@ -1,5 +1,5 @@
 # Game Of Life
-**@author: ormuseldesu**  
+**@author: ormux**  
 **@date:2018-08-05 | August 5, 2018**  
 
 the idea of a self working cellular automaton has always fascinated me, i've seen games which attempts to recreate the representation of the bigbang theory... but somehow that doesn't satisfy my visual senses, not until encountered John H. Conway's "Game of Life" algorithm. it is a zero-player game which uses the basics of matrix arithmetic creating a world so simple yet magnificent, implementing it in code feels like creating my own universe.
