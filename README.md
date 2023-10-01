@@ -1,13 +1,11 @@
-# Game Of Life
-**@author: ormux**  
-**@date:2018-08-05 | August 5, 2018**  
+<div align='center'>
+<h1 align="center">Game Of Life Simulation</h1>
+<h5 align="center">05/07/2018</h5>
+<h2 align="center">Description</h2>
+<p align="center">the <code>game of life</code> by John Conway is a zero player automata that uses matrix arithmetic to create a mini universe</p> 
 
-the idea of a self working cellular automaton has always fascinated me, i've seen games which attempts to recreate the representation of the bigbang theory... but somehow that doesn't satisfy my visual senses, not until encountered John H. Conway's "Game of Life" algorithm. it is a zero-player game which uses the basics of matrix arithmetic creating a world so simple yet magnificent, implementing it in code feels like creating my own universe.
-
-the game contains only four simple rules:  
-1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.  
-2. Any live cell with two or three live neighbours lives on to the next generation.  
-3. Any live cell with more than three live neighbours dies, as if by overpopulation.  
-4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.  
-
-![game-of-life](https://user-images.githubusercontent.com/19354579/64915818-52d02000-d7b3-11e9-8cc7-afa80364e472.gif)
+<div align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-black?logo=HTML5" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-black?logo=CSS3" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript" />
+</div>
