@@ -1,5 +1,5 @@
 <div align='center'>
-<h1 align="center">Game Of Life Simulation</h1>
+<h1 align="center"><a href="https://tatumroaquin.github.io/game-of-life/">Game of Life Simulation</a></h1>
 <h5 align="center">05/07/2018</h5>
 
 ![](./game-of-life.gif)
